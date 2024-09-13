@@ -1,4 +1,4 @@
-# Python-project
+
 # Festival Sales Data Analysis & Marketing Strategy By Python
 
 This repository contains the code and insights derived from analyzing sales data from the previous year's Diwali festival. The analysis identified key customer demographics, buying behaviors, and geographic hotspots, which form the basis for a focused marketing strategy to boost sales by 20-30% in the upcoming festival season.
