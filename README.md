@@ -55,4 +55,6 @@ By implementing the above strategies, we aim to increase sales by **20-30%** dur
 3. **Trend Analysis**: Identified purchasing patterns based on gender, age, and occupation.
 4. **State-wise Analysis**: Analyzed top-performing states for targeted stock allocation.
 
+![Capture](https://github.com/user-attachments/assets/d97c7da2-e107-4ff4-9699-6041283e928e)
+
 #FestivalMarketing #DataDrivenDecisions #SalesStrategy #CustomerFocus #EMIOptions #CorporateOffers #GrowthPlan #WomenEmpowerment #EcommerceSuccess
